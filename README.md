@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=venuswhispers&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvenuswhispers&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/venuswhispers-grey?style=flat&logo=telegram)](https://t.me/venuswhispers) <br>
+[![telegram badge](https://img.shields.io/badge/venuswhispers-grey?style=flat&logo=telegram)](https://t.me/dymaicteam5) <br>
 </div>
 
 <hr></hr>
