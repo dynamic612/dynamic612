@@ -14,7 +14,7 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=dynamic612s&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdynamic612&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/dynamic612-grey?style=flat&logo=telegram)](https://t.me/dynamicBC) <br>
+[![telegram badge](https://img.shields.io/badge/dynamic612-grey?style=flat&logo=telegram)](https://t.me/dynamicSol) <br>
 </div>
 
 <hr></hr>
@@ -43,7 +43,7 @@
 -  <img alt="GIF" src="https://github.com/dynamic612/dynamic612/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/dynamic612/dynamic612/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/dynamic612/dynamic612/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
-- <img src="https://github.com/dynamic612/dynamic612/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[DynamicBC](https://t.me/dynamicBC)**<br>
+- <img src="https://github.com/dynamic612/dynamic612/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[DynamicBC](https://t.me/dynamicSol)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/dynamic612/dynamic612/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
 
 <div align="center" >
