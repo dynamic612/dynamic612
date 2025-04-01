@@ -13,7 +13,7 @@
 <br><br> Vibing to : 🎧  </strong></p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=dynamic612&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdynamic612&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdynamic612&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false) -->
 [![telegram badge](https://img.shields.io/badge/dynamic612-grey?style=flat&logo=telegram)](https://t.me/dynamicSol) <br>
 </div>
 
@@ -198,10 +198,10 @@
 
 <p align="center">
   <a href="https://github.com/dynamic612?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dynamic612&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dynamic612&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt=""/>
   </a>
   <a href="https://github.com/dynamic612?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dynamic612&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dynamic612&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt=""/>
   </a>
 </p>
 
